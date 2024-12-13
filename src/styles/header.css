@@ -15,6 +15,10 @@ header {
     justify-content: space-between;
 }
 
+/* .fa-solid fa-burger {
+    position: fixed;
+} */
+
 .menu i {
     font-size: 24px;
     color: var(--color-primary6);
