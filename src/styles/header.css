@@ -37,7 +37,7 @@ header {
     font-weight: 600;
 }
 
-.list-line a {
+.nav-item.active a {
     border-bottom: 3px solid #ffe100;
 }
 
