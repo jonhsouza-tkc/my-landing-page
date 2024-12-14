@@ -192,9 +192,3 @@
     }
   }
 
-  @media screen and (max-width: 458px) {
-    #phone_button button {
-      /* display: none; */
-    }
-
-  }
