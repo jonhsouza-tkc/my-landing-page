@@ -113,13 +113,17 @@
     align-items: start;
     width: 70%;
     z-index: 2;
+    align-items: center; 
+    justify-content: center;
   }
 
   .banner img {
     height: 70%;
     width: fit-content;
     margin-top: 4.5rem;
-    border-radius: 1rem;  
+    border-radius: 1rem; 
+    padding-left: 20rem ;
+  
   
   }
 
