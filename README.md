@@ -48,6 +48,12 @@ JavaScript (jQuery) - Interatividade dinâmica e otimizada.
 ScrollReveal - Animações suaves na rolagem.
 Font Awesome - Ícones modernos e personalizáveis.
 
+🧑‍🍳 Como Executar o Projeto?
+Faça o download dos arquivos ou clone o repositório:
+
+
+git clone https://github.com/jonhsouza-tkc/food-landing.git
+
 ❤️ Créditos
 Icons by Font Awesome.
 Scroll animations powered by ScrollReveal.
